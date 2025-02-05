@@ -89,7 +89,7 @@ brew install bc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE v3.0
 
 ## Contributing
 
@@ -104,12 +104,3 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 Enjoy converting units with ease! 🎉
 ```
-
-### How to Use This README
-
-1. **Save the Content**: Copy the content above and save it as `README.md` in the root directory of your GitHub repository.
-2. **Customize**: Replace `your-username` with your actual GitHub username in the clone URL.
-3. **Add License**: If you want to include a license, create a `LICENSE` file in your repository and link it in the README.
-4. **Push to GitHub**: Commit the changes and push them to your GitHub repository.
-
-This README provides a comprehensive overview of your project, making it easy for others to understand and use your Unit Converter script.
