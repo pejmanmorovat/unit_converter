@@ -85,7 +85,7 @@ brew install bc
 
 👤 **Pejman Morovat**
 
-- GitHub: [@pejmanmorovat](https://github.com/pejmanmorovat)
+- Email: pejmanmorovat@yahoo.com
 
 ## License
 
