@@ -103,4 +103,3 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ---
 
 Enjoy converting units with ease! 🎉
-```
