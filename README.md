@@ -64,12 +64,13 @@ A simple and stylish command-line unit converter written in Bash. This script al
 ## Installation
 
 ### Termux (Android)
-If you're using Termux on Android, you can install `bc` using:
+If you're using Termux on Android, you can install `git` `bc` using:
 ```bash
 pkg install git
 pkg install bc
 ```
-In this script, the bc (Basic Calculator) package is necessary because it performs the floating-point arithmetic for the unit conversions. By default, Bash does not support floating-point operations directly (it only handles integer math).
+The git package is needed in the script's documentation because the installation steps suggest cloning the repository from GitHub using git.
+The bc (Basic Calculator) package is necessary because it performs the floating-point arithmetic for the unit conversions. By default, Bash does not support floating-point operations directly (it only handles integer math).
 
 ### Linux
 On most Linux distributions, `bc` is pre-installed. If not, you can install it using:
