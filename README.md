@@ -69,6 +69,7 @@ If you're using Termux on Android, you can install `bc` using:
 pkg install git
 pkg install bc
 ```
+In this script, the bc (Basic Calculator) package is necessary because it performs the floating-point arithmetic for the unit conversions. By default, Bash does not support floating-point operations directly (it only handles integer math).
 
 ### Linux
 On most Linux distributions, `bc` is pre-installed. If not, you can install it using:
