@@ -43,6 +43,16 @@ sudo dnf update && upgrade -y
 sudo dnf install git
 sudo dnf install bc
 ```
+# On CentOS:
+1- Update and upgrade your package list:
+```bash
+sudo yum update && upgrade -y
+```
+2- install the packages:
+```bash
+sudo yum install git
+sudo yum install bc
+```
 # On openSUSE:
 1- Update and upgrade your package list:
 ```bash
