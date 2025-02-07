@@ -18,20 +18,22 @@ If you're using Termux on Android, you can install `git` `bc` using:
 pkg install git
 pkg install bc
 ```
-The git package is needed in the script's documentation because the installation steps suggest cloning the repository from GitHub using git.
-The bc (Basic Calculator) package is necessary because it performs the floating-point arithmetic for the unit conversions. By default, Bash does not support floating-point operations directly (it only handles integer math).
 
 ### Linux
 On most Linux distributions, `bc` is pre-installed. If not, you can install it using:
 ```bash
+sudo apt-get install git
 sudo apt-get install bc
 ```
 
 ### macOS
 On macOS, `bc` is usually pre-installed. If not, you can install it using Homebrew:
 ```bash
+brew install git
 brew install bc
 ```
+The git package is needed in the script's documentation because the installation steps suggest cloning the repository from GitHub using git.
+The bc (Basic Calculator) package is necessary because it performs the floating-point arithmetic for the unit conversions. By default, Bash does not support floating-point operations directly (it only handles integer math).
 
 ## Usage
 
