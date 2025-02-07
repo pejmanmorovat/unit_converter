@@ -63,6 +63,7 @@ brew install bc
 
 ## Requirements
 - **Bash**: The script is written in Bash and should be run in a Bash-compatible shell.
+- **git**: The git package is needed in the script's documentation because the installation steps suggest cloning the repository from GitHub using git.
 - **bc**: The script uses `bc` for floating-point arithmetic. Ensure `bc` is installed on your system.
 
 ## Usage
