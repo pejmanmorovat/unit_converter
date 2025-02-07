@@ -66,6 +66,7 @@ A simple and stylish command-line unit converter written in Bash. This script al
 ### Termux (Android)
 If you're using Termux on Android, you can install `bc` using:
 ```bash
+pkg install git
 pkg install bc
 ```
 
