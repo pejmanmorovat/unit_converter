@@ -12,7 +12,7 @@ A simple and stylish command-line unit converter written in Bash. This script al
 
 ## Installation
 
-# Termux (Android)
+#Termux (Android)
 If you're using Termux on Android, First update packages and you can install `git` `bc` using:
 ```bash
 pkg update && upgrade -y
