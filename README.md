@@ -38,7 +38,7 @@ brew install bc
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/pejmanmorovat/unit_converter.git
-   cd unit-converter
+   cd unit_converter
    ```
 
 2. **Make the script executable**:
