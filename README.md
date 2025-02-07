@@ -20,12 +20,38 @@ pkg install bc
 ```
 
 ### Linux
+## On Debian-based Distributions (e.g., Ubuntu, Linux Mint):
+1- Open your terminal and Update your package list:
+```bash
+sudo apt update && upgrade -y
+```
+2- install the packages:
 On most Linux distributions, `bc` is pre-installed. If not, you can install it using:
 ```bash
 sudo apt-get install git
 sudo apt-get install bc
 ```
-
+## On Red Hat-based Distributions (e.g., CentOS, RHEL):
+# On fedora:
+1- Open your terminal and update and upgrade your package list:
+```bash
+sudo dnf update && upgrade -y
+```
+2- install the packages:
+```bash
+sudo dnf install git
+sudo dnf install bc
+```
+# On openSUSE:
+1- Update and upgrade your package list:
+```bash
+sudo zypper update && upgrade -y
+```
+2- install the packages:
+```bash
+sudo zypper install git
+sudo zypper install bc
+```
 ### macOS
 On macOS, `bc` is usually pre-installed. If not, you can install it using Homebrew:
 ```bash
